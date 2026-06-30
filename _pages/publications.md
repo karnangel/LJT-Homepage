@@ -1,39 +1,17 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+l\nlayout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /resume
+  - /publications.html
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024–Present
-* B.Eng., Shanghai Jiao Tong University (SJTU), 2020–2024 (graduated June 2024)
-
-Work experience
-======
-* February 2025–Present: Research Intern, MINIMAX
-* June 2024–September 2024: Research Intern, Tencent WXG (advised by Zifei Shan)
-* June 2023–December 2023: Research Intern, Shanghai AI Lab (advised by Prof. Yu Cheng)
-
-Awards
-======
-* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
-
-Skills
-======
-* Natural Language Processing
-* Machine Learning
-* LLM Reasoning and Reinforcement Learning
-* Hallucination in Vision-Language Models (VLM)
-* LLM Truthfulness and Interpretability
-
 Publications
 ======
+
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. arXiv, 2025. (First author)
 2. **On the Perception Bottleneck of VLMs for Chart Understanding.** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. arXiv, 2025. (First author)
 3. **On the Universal Truthfulness Hyperplane Inside LLMs.** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. EMNLP 2024. (First author)
