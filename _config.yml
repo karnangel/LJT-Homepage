@@ -194,6 +194,27 @@ exclude:
   - README
   - tmp
   - vendor
+  # Placeholder content that ships with the Academic Pages template. It has no
+  # relation to this personal page, and it cannot be deleted with the GitHub
+  # tooling available to the site maintainer, so it is kept in the repository
+  # but excluded from the Jekyll build.
+  - _posts/**      # template sample blog posts
+  - _talks/**      # template sample talks
+  - _teaching/**   # template sample teaching entries
+  - _portfolio/**  # template sample portfolio items
+  - _data/cv.json  # template sample CV data
+  - _pages/cv.md
+  - _pages/cv-json.md
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/portfolio.html
+  - _pages/year-archive.html
+  - _pages/talkmap.html
+  - _publications/2009-10-01-paper-title-number-1.md
+  - _publications/2010-10-01-paper-title-number-2.md
+  - _publications/2015-10-01-paper-title-number-3.md
+  - _publications/2024-02-17-paper-title-number-4.md
+  - _publications/2025-06-08-paper-title-number-5.md
 keep_files:
   - .git
   - .svn
